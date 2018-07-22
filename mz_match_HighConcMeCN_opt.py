@@ -3,7 +3,7 @@ from itertools import combinations_with_replacement
 mass_CoT = 683.1586
 charge_CoT = 3
 n_samp = 8
-margin = 0.05
+margin = 0.01
 
 #MeCN/HCOOH, high concentration
 
